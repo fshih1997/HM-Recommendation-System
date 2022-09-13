@@ -16,7 +16,7 @@ H&M Group is a family of brands and businesses with 53 online markets and approx
 
 
 
-I experimented with several traditional and modern machine learning models that leverage Computer Vision. The best model I build was 
+I experimented with several traditional and modern machine learning models that leverage Computer Vision. The best model I build was deep learning model. 
 
 
 
